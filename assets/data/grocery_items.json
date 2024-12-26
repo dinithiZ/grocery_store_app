@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Apple",
+    "price": "LKR 360.00",
+    "image": "assets/images/apple.png"
+  },
+  {
+    "id": 2,
+    "name": "Banana",
+    "price": "LKR 215.35",
+    "image": "assets/images/banana.png"
+  },
+  {
+    "id": 3,
+    "name": "Carrot",
+    "price": "LKR 178.50",
+    "image": "assets/images/carrot.png"
+  },
+  {
+    "id": 4,
+    "name": "Broccoli",
+    "price": "LKR 470.85",
+    "image": "assets/images/broccoli.png"
+  },
+  {
+    "id": 5,
+    "name": "Milk",
+    "price": "LKR 545.00",
+    "image": "assets/images/milk.png"
+  },
+  {
+    "id": 6,
+    "name": "Bread",
+    "price": "LKR 250.00",
+    "image": "assets/images/bread.png"
+  },
+  {
+    "id": 7,
+    "name": "Cheese",
+    "price": "LKR 1400.00",
+    "image": "assets/images/cheese.png"
+  },
+  {
+    "id": 8,
+    "name": "Tomato",
+    "price": "LKR 324.50",
+    "image": "assets/images/tomato.png"
+  },
+  {
+    "id": 9,
+    "name": "Eggs",
+    "price": "LKR 65.25",
+    "image": "assets/images/eggs.png"
+  },
+  {
+    "id": 10,
+    "name": "Potato",
+    "price": "LKR 250.25",
+    "image": "assets/images/potato.png"
+  }
+]
